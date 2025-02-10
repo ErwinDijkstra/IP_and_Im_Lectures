@@ -280,7 +280,7 @@ $$
 f^{\delta} = K(\overline{u}) + e,
 $$
 
-where $e$ represents the combined measurement and modeling error with $\|e\| \leq \delta$. If we find a $u$ for which $Ku^{\delta} = f^{\delta}$, we can ask ourselves how big the *backward error* $\|u^{\delta} - \overline{u}\|$ is with respect to the *forward error* $\|e\|$. In practice we call a problem ill-posed if a small error in the data can cause a large error in the reconstruction.
+where $e$ represents the combined measurement and modeling error with $\|e\| \leq \delta$. If we find a $u^\delta$ for which $Ku^{\delta} = f^{\delta}$, we can ask ourselves how big the *backward error* $\|u^{\delta} - \overline{u}\|$ is with respect to the *forward error* $\|e\|$. In practice we call a problem ill-posed if a small error in the data can cause a large error in the reconstruction.
 
 ## Motivating examples
 
