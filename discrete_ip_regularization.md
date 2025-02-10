@@ -30,7 +30,7 @@ $$
 \widetilde u = K^{-1}f.
 $$
 
-* If $m > n$ and $K$ has rank $n$, the system of equations may be *inconsistent* in which case a solution does not exist when $f$ is not in the range of $K$.
+* If $m > n$ and $K$ has rank $n$, the system of equations may be *inconsistent* meaning $f$ is not in the range of $K$ in which case a solution does not exist.
 
 * If $m < n$ and $K$ has rank $m$, we can always find a solution but it may not be unique because $K$ has a non-trivial *null-space*.
 
